@@ -21,6 +21,8 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - Layout Web
 - Layout Mobile
 
+![happy](https://user-images.githubusercontent.com/76889223/104499317-b04cca80-55bb-11eb-9afb-be23d4291735.png)
+
 # 🧠 Desafio
 
 No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
@@ -29,6 +31,6 @@ No link a seguir você encontra o guia no Notion referente aos desafios proposto
 
 # 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. 👋
 
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
+
