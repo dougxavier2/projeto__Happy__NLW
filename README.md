@@ -1,5 +1,8 @@
 # Projeto Happy NLW
 
+
+![happy](https://user-images.githubusercontent.com/76889223/104499317-b04cca80-55bb-11eb-9afb-be23d4291735.png)
+
 # 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -20,8 +23,6 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 - Layout Web
 - Layout Mobile
-
-![happy](https://user-images.githubusercontent.com/76889223/104499317-b04cca80-55bb-11eb-9afb-be23d4291735.png)
 
 # 🧠 Desafio
 
